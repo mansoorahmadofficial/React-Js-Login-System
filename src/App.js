@@ -30,6 +30,7 @@ const App = () => {
             boxShadow: "0px 3px lightblue",
             textAlign:"center"
           }}
+          
         >
           <div className="col-md-12 center text-center" style={{ padding: 15 }}>
             <img
